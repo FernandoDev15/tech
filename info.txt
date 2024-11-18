@@ -1,0 +1,3 @@
+Preparar repositorio 
+criar brnach
+fazer commits
