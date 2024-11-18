@@ -1,3 +1,4 @@
 Preparar repositorio 
 criar brnach
 fazer commits
+rastrear remote local
