@@ -7,3 +7,5 @@
 * ola Mundo!
 
 ## restore staged
+
+* Fazer um git pull no repositório local
