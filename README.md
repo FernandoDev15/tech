@@ -8,4 +8,6 @@
 
 ## restore staged
 
-* Fazer um git pull no repositório local
+* Comando "git pull" no repositório local
+
+* Comando "git fetch" no repositório local
