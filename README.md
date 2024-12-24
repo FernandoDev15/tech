@@ -4,4 +4,6 @@
 
 ## Gravando Mudanças no repositório 
 
-> ola Mundo!
+* ola Mundo!
+
+## restore staged
